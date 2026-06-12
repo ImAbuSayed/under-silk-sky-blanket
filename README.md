@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/under-silk-sky-blanket/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Under Silk Sky Blanket](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-silk-sky-blanket/) |
+| **Get License** | [Obtain a Music License for Under Silk Sky Blanket](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/under-silk-sky-blanket/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I pull you closer as the sun goes down
+> Miles away from the sleepy town
+> Wrapped up together where the fireflies play
+> I want to hold you till the break of day
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
